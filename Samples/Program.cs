@@ -1,7 +1,8 @@
 ﻿using System;
+using EntityFrameworkCoreSamples;
 using Samples.Entities;
 
-namespace EntityFrameworkCoreSamples
+namespace Samples
 {
     class Program
     {
