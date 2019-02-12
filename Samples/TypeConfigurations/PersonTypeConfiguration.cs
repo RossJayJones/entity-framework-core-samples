@@ -1,8 +1,8 @@
-﻿using EntityFrameworkCoreSamples.Entities;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using Samples.Entities;
 
-namespace EntityFrameworkCoreSamples.TypeConfigurations
+namespace Samples.TypeConfigurations
 {
     public class PersonTypeConfiguration : IEntityTypeConfiguration<Person>
     {

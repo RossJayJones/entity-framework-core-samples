@@ -1,4 +1,4 @@
-﻿namespace EntityFrameworkCoreSamples.Entities
+﻿namespace Samples.Entities
 {
     public class Address
     {

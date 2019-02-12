@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace EntityFrameworkCoreSamples.Entities
+namespace Samples.Entities
 {
     public class PersonDetails
     {

@@ -1,5 +1,5 @@
 ﻿using System;
-using EntityFrameworkCoreSamples.Entities;
+using Samples.Entities;
 
 namespace EntityFrameworkCoreSamples
 {

@@ -1,6 +1,6 @@
-﻿using EntityFrameworkCoreSamples.Entities;
-using EntityFrameworkCoreSamples.TypeConfigurations;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using Samples.Entities;
+using Samples.TypeConfigurations;
 
 namespace EntityFrameworkCoreSamples
 {
